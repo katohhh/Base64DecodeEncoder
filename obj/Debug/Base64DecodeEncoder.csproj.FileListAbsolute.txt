@@ -1,0 +1,13 @@
+C:\Users\katom\source\repos\Base64DecodeEncoder\bin\Debug\Base64DecodeEncoder.exe.config
+C:\Users\katom\source\repos\Base64DecodeEncoder\bin\Debug\Base64DecodeEncoder.exe
+C:\Users\katom\source\repos\Base64DecodeEncoder\bin\Debug\Base64DecodeEncoder.pdb
+C:\Users\katom\source\repos\Base64DecodeEncoder\bin\Debug\Guna.UI2.dll
+C:\Users\katom\source\repos\Base64DecodeEncoder\obj\Debug\Base64DecodeEncoder.csproj.AssemblyReference.cache
+C:\Users\katom\source\repos\Base64DecodeEncoder\obj\Debug\Base64DecodeEncoder.csproj.SuggestedBindingRedirects.cache
+C:\Users\katom\source\repos\Base64DecodeEncoder\obj\Debug\Base64DecodeEncoder.Form1.resources
+C:\Users\katom\source\repos\Base64DecodeEncoder\obj\Debug\Base64DecodeEncoder.Properties.Resources.resources
+C:\Users\katom\source\repos\Base64DecodeEncoder\obj\Debug\Base64DecodeEncoder.csproj.GenerateResource.cache
+C:\Users\katom\source\repos\Base64DecodeEncoder\obj\Debug\Base64DecodeEncoder.csproj.CoreCompileInputs.cache
+C:\Users\katom\source\repos\Base64DecodeEncoder\obj\Debug\Base64DecodeEncoder.csproj.CopyComplete
+C:\Users\katom\source\repos\Base64DecodeEncoder\obj\Debug\Base64DecodeEncoder.exe
+C:\Users\katom\source\repos\Base64DecodeEncoder\obj\Debug\Base64DecodeEncoder.pdb
